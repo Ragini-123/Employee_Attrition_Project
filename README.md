@@ -36,4 +36,4 @@ To identify early indicators of employee resignation by performing exploratory d
 ## Author
 Yegupati Ragini  
 LinkedIn: [Ragini's LinkedIn](https://www.linkedin.com/in/ragini-chowdhary-7648342a1)  
-GitHub: [Ragini-123](https://github.com/Ragini-123)
+
